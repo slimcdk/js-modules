@@ -11,15 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slimcdk/js-modules/energidataservice.git"
+    "url": "git+https://github.com/slimcdk/js-modules"
   },
   "keywords": [
-    "energidataservice"
+    "energidataservice",
+    "powergrid",
+    "nordpool"
   ],
   "author": "Christian Skjerning",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/slimcdk/js-modules/issues"
   },
-  "homepage": "https://github.com/slimcdk/js-modules/energidataservice#readme"
+  "homepage": "https://github.com/slimcdk/js-modules/tree/master/energidataservice#readme"
 }
